@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitHub
 {
-    publi    class Person
+    public class Person
     {
     }
 }
